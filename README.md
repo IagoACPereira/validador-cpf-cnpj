@@ -6,3 +6,7 @@
 
 - GET "/" :  Apresentação da API;
 - GET "/:entrada" : Verifica se possui a quantidade de caracteres para ser CPF ou CNPJ;
+
+## Teste Aqui!
+
+https://puzzled-teal-dirndl.cyclic.app/iagoACPereira/validador-cpf-cnpj/12345678901
